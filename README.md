@@ -6,7 +6,7 @@
     height="50"/>
   <a href="https://git.io/typing-svg" style="display: inline-block; vertical-align: middle;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=B703C3&center=true&vCenter=true&width=800&lines=Hello+there+!+Welcome+to+my+Github++%3AD+!" 
+      src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&color=B703C3&center=true&vCenter=true&width=600&lines=Hello+there+!+Welcome+to+my+Github++%3AD+!" 
       alt="Typing SVG"
     />
   </a>
